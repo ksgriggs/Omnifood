@@ -449,9 +449,6 @@ blockquote:before {
   left: -5px;
 }
 
-blockquote:after {
-}
-
 cite img {
   height: 45px;
   border-radius: 50%;
